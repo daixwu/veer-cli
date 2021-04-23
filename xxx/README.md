@@ -1,2 +1,0 @@
-# veer
-veer-ui
