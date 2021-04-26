@@ -14,8 +14,8 @@ sudo npm i veer-cli  -g
 ### 初始化项目
 
 ```bash
-veer init <模板名称> <项目名称>
-veer i <模板名称> <项目名称>
+veer init <templateName> <projectName>
+veer i <templateName> <projectName>
 ```
 
 ### 查看当前支持模板
